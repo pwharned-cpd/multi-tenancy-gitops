@@ -36,7 +36,7 @@ resources:
 #- argocd/operators/ibm-cpd-ds-operator.yaml
 #- argocd/instances/ibm-cpd-ds-instance.yaml
 - argocd/operators/ibm-cpd-aespark-operator.yaml
-#- argocd/instances/ibm-cpd-aespark-instance.yaml
+- argocd/instances/ibm-cpd-aespark-instance.yaml
 #- argocd/operators/ibm-cpd-wos-operator.yaml
 #- argocd/instances/ibm-cpd-wos-instance.yaml
 #- argocd/operators/ibm-cpd-dv-operator.yaml
